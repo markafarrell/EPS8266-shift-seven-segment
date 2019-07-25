@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP YSD-160AB3C-8
+D DISPLAY 7 SEGMENTS common Anode
+K display LED 7-segment
+F https://cdn.sparkfun.com/datasheets/Components/LED/YSD-160AB3C-8.pdf
+$ENDCMP
+#
+#End Doc Library
